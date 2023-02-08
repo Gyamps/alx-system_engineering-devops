@@ -52,3 +52,6 @@
 ### 100-lets_move
 > Moves all files beginning with an uppercase letter to the dir _/tmp/u_
 
+### 101-clean_emacs
+> Delete all files in current dir that end with the character _~_
+
