@@ -37,3 +37,6 @@
 ### 11-lists
 > List all files (including hidden ones) in current dir and the parent of the working dir and the _/boot/_ dir ( in this order), in long format
 
+### 12-file_type
+> Print the type of file named _iamafile_
+
