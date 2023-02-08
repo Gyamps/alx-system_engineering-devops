@@ -6,3 +6,6 @@
 
 ### 2-bring_me_home
 > Changes working directory to home directory
+
+### 3-listfiles
+> Displays current dir contents in long format
