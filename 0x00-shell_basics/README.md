@@ -58,3 +58,12 @@
 ### 102-tree
 > Creates the dirs _welcome/_, _welcome/to/_ and _welcome/to/school_
 
+### 103-commas
+> Lists all files and dirs of the current dir, separated by commas(`,`).
+* Directory names should end with a slash (`/`)
+* Files and directories starting with a dot (`.`) should be listed
+* The listing should be alpha ordered, except for the directories `.` and `..` which should be listed at the very beginning
+* Only digits and letters are used to sort; Digits should come first
+* You can assume that all the files we will test with will have at least one letter or one digit
+* The listing should end with a new line
+
