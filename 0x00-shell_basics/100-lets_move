@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep '^[A-Z]' | mv /tmp/u
+find . -type f -name "[[:upper:]]*" | xargs -I % mv -- %  /tmp/u/
