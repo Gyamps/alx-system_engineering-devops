@@ -55,3 +55,6 @@
 ### 101-clean_emacs
 > Delete all files in current dir that end with the character _~_
 
+### 102-tree
+> Creates the dirs _welcome/_, _welcome/to/_ and _welcome/to/school_
+
