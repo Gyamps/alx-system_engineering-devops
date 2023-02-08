@@ -19,3 +19,6 @@
 * with user and group IDS displayed numerically
 * and hidden files
 
+### 6-firstdirectory
+> Creates a directory named _my\_first\_directory_ in the _/tmp/_ directory
+
