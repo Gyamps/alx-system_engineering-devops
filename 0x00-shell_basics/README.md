@@ -34,3 +34,6 @@
 ### 10-back
 > Changes the working directory to previous one
 
+### 11-lists
+> List all files (including hidden ones) in current dir and the parent of the working dir and the _/boot/_ dir ( in this order), in long format
+
