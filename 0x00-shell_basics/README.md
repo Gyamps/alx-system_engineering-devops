@@ -22,3 +22,6 @@
 ### 6-firstdirectory
 > Creates a directory named _my\_first\_directory_ in the _/tmp/_ directory
 
+### 7-movethatfile
+> Move file _betty_ from _/tmp/_ to _/tmp/my\_first\_directory_
+
