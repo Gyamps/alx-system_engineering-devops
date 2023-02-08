@@ -9,3 +9,7 @@
 
 ### 3-listfiles
 > Displays current dir contents in long format
+
+### 4-listmorefiles
+> Displays current dir contents, including hidden files in long format
+
