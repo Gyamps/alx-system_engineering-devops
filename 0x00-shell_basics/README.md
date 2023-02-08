@@ -67,3 +67,6 @@
 * You can assume that all the files we will test with will have at least one letter or one digit
 * The listing should end with a new line
 
+### school.mgc
+> Create a magic file `school.mgc` that can be used with the command `file` to detect `School` data files.
+
