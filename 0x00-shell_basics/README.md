@@ -21,42 +21,42 @@
 * and hidden files
 
 ### 6-firstdirectory
-> Creates a directory named _my\_first\_directory_ in the _/tmp/_ directory
+> Creates a directory named `my_first_directory` in the `/tmp/` directory
 
 ### 7-movethatfile
-> Move file _betty_ from _/tmp/_ to _/tmp/my\_first\_directory_
+> Move file _betty_ from `/tmp/` to `/tmp/my_first_directory`
 
 ### 8-firstdelete
-> Delete the file _betty_
+> Delete the file `betty`
 
 ### 9-firstdirdeletion
-> Delete dir _my\_first\_directory_ in /tmp/ dir
+> Delete dir `my_first_directory` in `/tmp/` dir
 
 ### 10-back
 > Changes the working directory to previous one
 
 ### 11-lists
-> List all files (including hidden ones) in current dir and the parent of the working dir and the _/boot/_ dir ( in this order), in long format
+> List all files (including hidden ones) in current dir and the parent of the working dir and the `/boot/` dir ( in this order), in long format
 
 ### 12-file_type
-> Print the type of file named _iamafile_
+> Print the type of file named `iamafile`
 
 ### 13-symbolic_link
-> Creates a symbolic link to _/bin/ls_, named _\_\_ls\_\__
+> Creates a symbolic link to `/bin/ls`, named `__ls__`
 
 ### 14-copy_html
-> Copies all HTML files from current working dir to parent of working dir, but only copies files that did not exist in paretn of working dir or were newer versions in the parent of working dir
+> Copies all HTML files from current working dir to parent of working dir, but only copies files that did not exist in parent of working dir or were newer versions in the parent of working dir
 
 
 <u>## Optional Tasks</u>
 ### 100-lets_move
-> Moves all files beginning with an uppercase letter to the dir _/tmp/u_
+> Moves all files beginning with an uppercase letter to the dir `/tmp/u`
 
 ### 101-clean_emacs
-> Delete all files in current dir that end with the character _~_
+> Delete all files in current dir that end with the character `~`
 
 ### 102-tree
-> Creates the dirs _welcome/_, _welcome/to/_ and _welcome/to/school_
+> Creates the dirs `welcome/`, `welcome/to/` and `welcome/to/school`
 
 ### 103-commas
 > Lists all files and dirs of the current dir, separated by commas(`,`).
