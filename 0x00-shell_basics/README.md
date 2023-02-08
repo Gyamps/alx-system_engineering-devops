@@ -31,3 +31,6 @@
 ### 9-firstdirdeletion
 > Delete dir _my\_first\_directory_ in /tmp/ dir
 
+### 10-back
+> Changes the working directory to previous one
+
