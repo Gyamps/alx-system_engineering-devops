@@ -28,3 +28,6 @@
 ### 8-firstdelete
 > Delete the file _betty_
 
+### 9-firstdirdeletion
+> Delete dir _my\_first\_directory_ in /tmp/ dir
+
