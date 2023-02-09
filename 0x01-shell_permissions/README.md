@@ -36,3 +36,6 @@
 ### 10-mirror_permissions
 > Script sets the mode of the file `hello` the same as `olleh`'s mode
 
+### 11-directories_permissions
+> Scripts dds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. REgulare files are not changed.
+
