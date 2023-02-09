@@ -1,4 +1,4 @@
-<u>## Mandatory Tasks</u>
+## <u>Mandatory Tasks</u>
 ### 0x00-shell_basics
 > Prints out the absolute path name of the current working directory
 
@@ -48,7 +48,7 @@
 > Copies all HTML files from current working dir to parent of working dir, but only copies files that did not exist in parent of working dir or were newer versions in the parent of working dir
 
 
-<u>## Optional Tasks</u>
+## <u>Optional Tasks</u>
 ### 100-lets_move
 > Moves all files beginning with an uppercase letter to the dir `/tmp/u`
 

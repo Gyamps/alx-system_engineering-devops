@@ -1,4 +1,4 @@
-## Mandatory Tasks
+## <u>Mandatory Tasks</u>
 
 ### 0x01-shell_permissions
 > Script that switches the current user to the user `betty`
@@ -45,6 +45,8 @@
 ### 13-change_group
 > Script changes the group owner to `school` for the file `hello`
 
+
+## <u>Optional Tasks</u>
 ### 100-change_owner_and_group
 > Script changes oner to `vincent` and group owner to `staff` for all files and directories in the working directory
 
