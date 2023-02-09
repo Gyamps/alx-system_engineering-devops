@@ -45,3 +45,6 @@
 ### 13-change_group
 > Script changes the group owner to `school` for the file `hello`
 
+### 14-change_owner_and_group
+> Script changes oner to `vincent` and group owner to `staff` for all files and directories in the working directory
+
