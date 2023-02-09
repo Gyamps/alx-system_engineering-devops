@@ -39,3 +39,6 @@
 ### 11-directories_permissions
 > Scripts dds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. REgulare files are not changed.
 
+### 12-directory_permissions
+> Script creates a directory called `my_dir` with permissions 751 in the working dir
+
