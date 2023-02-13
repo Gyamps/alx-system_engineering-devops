@@ -25,3 +25,6 @@ Directory on basic shell redirections and piping.
 ### 7-file
 > Creates a file names exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line
 
+### 8-cwd_state
+> Result of command `ls -la` is written into the file `ls_cwd_content`. If the file exists, it should beoverwritten. If it does not exist, it should be created.
+
