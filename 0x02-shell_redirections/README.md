@@ -10,3 +10,6 @@ Directory on basic shell redirections and piping.
 ### 2-hellofile
 > Displays content of the `/etc/passwd` file
 
+### 3-twofiles
+> Display content of `/etc/passwd/` and `/etc/hosts/`
+
