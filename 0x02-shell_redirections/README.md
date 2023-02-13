@@ -22,3 +22,6 @@ Directory on basic shell redirections and piping.
 ### 6-third_line
 > Displays the third line of the file `iacta`
 
+### 7-file
+> Creates a file names exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line
+
