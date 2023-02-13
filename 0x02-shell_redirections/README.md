@@ -39,3 +39,9 @@ Directory on basic shell redirections and piping.
 * Current and Parent directories are not taken into account
 * Hidden directories are counted
 
+### 12-newest_files
+> Script displays 10 newest files in the current directory
+Requirements:
+* One file per line
+* Sorted from the newest to the oldest
+
