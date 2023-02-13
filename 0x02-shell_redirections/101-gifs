@@ -1,0 +1,2 @@
+#!/bin/bash
+ls *.gif | LC_ALL=C sort --ignore-case
