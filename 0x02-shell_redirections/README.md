@@ -73,3 +73,6 @@ Requirements:
 ### 20-hiago
 > Removes all letters `c` and `C` from input
 
+### 21-reverse
+> Script to reverse input
+
