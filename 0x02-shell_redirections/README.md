@@ -7,3 +7,6 @@ Directory on basic shell redirections and piping.
 ### 1-confused_smiley
 > Displays a confused smiley
 
+### 2-hellofile
+> Displays content of the `/etc/passwd` file
+
