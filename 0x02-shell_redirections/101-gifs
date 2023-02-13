@@ -1,2 +1,2 @@
 #!/bin/bash
-ls . -aR *.gif | LC_ALL=C LC_COLLATE=C sort --ignore-case
+ls . -aR | find -name '*.gif' -printf "%f\n" | LC_ALL=C LC_COLLATE=C sort --ignore-case
