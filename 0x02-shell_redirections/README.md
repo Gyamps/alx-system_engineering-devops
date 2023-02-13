@@ -34,3 +34,8 @@ Directory on basic shell redirections and piping.
 ### 10-no_more_js
 > Script delete all regular files (directories excluded) with a `.js` extension that are present in the current directory and all its subfolders
 
+### 11-directories
+> Script counts number of firectories and sub-directories in current dir.
+* Current and Parent directories are not taken into account
+* Hidden directories are counted
+
