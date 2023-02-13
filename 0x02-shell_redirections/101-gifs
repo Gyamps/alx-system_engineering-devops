@@ -1,2 +1,2 @@
 #!/bin/bash
-ls *.gif | LC_ALL=C sort --ignore-case
+ls . -R *.gif | LC_ALL=C LC_COLLATE=C sort
