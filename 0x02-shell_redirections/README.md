@@ -28,3 +28,6 @@ Directory on basic shell redirections and piping.
 ### 8-cwd_state
 > Result of command `ls -la` is written into the file `ls_cwd_content`. If the file exists, it should beoverwritten. If it does not exist, it should be created.
 
+### 9-duplicate_last_line
+> Script that duplicates the last line of the file `iacta`
+
