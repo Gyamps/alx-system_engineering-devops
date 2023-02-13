@@ -16,3 +16,6 @@ Directory on basic shell redirections and piping.
 ### 4-lastlines
 > Display the last 10 lines of `/etc/passwd`
 
+### 5-firstlines
+> Display first 10 lines of `/etc/passwd`
+
