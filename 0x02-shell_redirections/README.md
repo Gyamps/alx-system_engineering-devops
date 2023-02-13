@@ -19,3 +19,6 @@ Directory on basic shell redirections and piping.
 ### 5-firstlines
 > Display first 10 lines of `/etc/passwd`
 
+### 6-third_line
+> Displays the third line of the file `iacta`
+
