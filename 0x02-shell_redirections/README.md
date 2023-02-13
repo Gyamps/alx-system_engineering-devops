@@ -67,3 +67,6 @@ Requirements:
 > Display all th elines of the file `/etc/shh/shhd_config` starting with a letter.
 * Inlcude capital letters as well
 
+### 19-AZ
+> Replaces all characters `A` and `c` from input to `Z` and `e` respectively
+
