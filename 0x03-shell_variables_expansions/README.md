@@ -27,3 +27,6 @@
 * Name: `BEST`
 * Value: `School`
 
+### 8-true-knowledge
+> Script prints the result of addition of 128 witht he value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line
+
