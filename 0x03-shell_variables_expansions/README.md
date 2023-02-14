@@ -36,3 +36,6 @@
 ### 10-love_exponent_breath
 > Script displays the result of `BREATH` to the power of `LOVE`
 
+### 11-binary_to_decimal
+> Script converts a number from base 2 to base 10
+
