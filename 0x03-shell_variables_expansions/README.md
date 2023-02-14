@@ -49,3 +49,6 @@
 ### 100-decimal_tohexadecimal
 > Script converts number from base 10 to base 16
 
+### 101-rot13
+> Script encodes and decodes text using rot13 encrytion
+
