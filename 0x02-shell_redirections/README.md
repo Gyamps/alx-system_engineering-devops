@@ -97,3 +97,7 @@ Requirements:
 * The listing should end with a new line
 * You are not allowed to use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`
 
+### 102-acrostic
+> Script decodes acrostics that use the first letter of each line.
+* Decoded message has to end with a new line
+
