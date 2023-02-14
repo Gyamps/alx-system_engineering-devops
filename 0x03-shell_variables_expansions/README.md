@@ -45,3 +45,7 @@
 ### 13-print_float
 > Script prints a number with two decimal places, followed by a new line
 
+## Optional Tasks
+### 100-decimal_tohexadecimal
+> Script converts number from base 10 to base 16
+
