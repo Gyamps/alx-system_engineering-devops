@@ -30,3 +30,6 @@
 ### 8-true-knowledge
 > Script prints the result of addition of 128 witht he value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line
 
+### 9-divide_and_rule
+> Script prints result of `POWER` divided by `DIVIDE`, followed by a new line
+
