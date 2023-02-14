@@ -1,0 +1,4 @@
+## Mandatory Tasks
+### 0-alias
+> Script that creates an alias
+
