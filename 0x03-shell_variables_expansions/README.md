@@ -17,3 +17,8 @@
 ### 5-local_variables
 > Script lists all local variables and environment variables, and functions
 
+### 6-create_local_variable
+> Script creates a new local variable
+* Name: `BEST`
+* Value: `School`
+
