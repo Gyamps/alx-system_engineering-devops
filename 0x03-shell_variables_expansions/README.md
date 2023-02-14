@@ -39,3 +39,6 @@
 ### 11-binary_to_decimal
 > Script converts a number from base 2 to base 10
 
+### 12-combinations
+> Script prints all ossible combinations of two letters except `oo`
+
