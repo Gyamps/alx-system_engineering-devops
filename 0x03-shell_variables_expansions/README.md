@@ -42,3 +42,6 @@
 ### 12-combinations
 > Script prints all ossible combinations of two letters except `oo`
 
+### 13-print_float
+> Script prints a number with two decimal places, followed by a new line
+
