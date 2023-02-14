@@ -11,3 +11,6 @@
 ### 3-paths
 > Script counts the number of directories in the `PATH`
 
+### 4-global_variables
+> Script lists environment variables
+
