@@ -5,3 +5,6 @@
 ### 1-hello_you
 > Script prints `hello __user__` where use is the current Linux user
 
+### 2-path
+> Adds `/action` to the `PATH`. `/action` should be the last directort the shelllooks into when looking for a program.
+
