@@ -101,3 +101,7 @@ Requirements:
 > Script decodes acrostics that use the first letter of each line.
 * Decoded message has to end with a new line
 
+### 103-the_biggest_fan
+> Script parses webservers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+* Order by number of requests, most active host or IP at the top
+
