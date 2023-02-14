@@ -8,3 +8,6 @@
 ### 2-path
 > Adds `/action` to the `PATH`. `/action` should be the last directort the shelllooks into when looking for a program.
 
+### 3-paths
+> Script counts the number of directories in the `PATH`
+
