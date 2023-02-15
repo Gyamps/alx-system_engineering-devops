@@ -55,3 +55,9 @@
 ### 102-odd
 > Script prints every other line from input starting with first line
 
+### 103-water_and_stir
+> Script adds thr two numbers stored in the env variables `WATER` and `STIR` and prints result
+* `WATER` is in base `water`
+* `STIR` is in base `stir.`
+* The result should be in base `bestchol`
+
