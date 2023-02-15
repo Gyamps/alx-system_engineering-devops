@@ -52,3 +52,6 @@
 ### 101-rot13
 > Script encodes and decodes text using rot13 encrytion
 
+### 102-odd
+> Script prints every other line from input starting with first line
+
